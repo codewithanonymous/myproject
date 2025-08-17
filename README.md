@@ -1,4 +1,4 @@
-# Snapchat Clone - Segregated Frontend & Backend
+# KITSFLICK - Segregated Frontend & Backend
 
 This project has been restructured to separate frontend and backend components while maintaining all existing functionalities.
 
